@@ -19,6 +19,8 @@ console.log(fruits[2]);
 console.log(fruits);
 console.log(fruits.length);
 
+// this is the second file
+
 
 
 
